@@ -1,0 +1,37 @@
+[
+  {
+    "victim_amount_in_eth": "37547298763358424",
+    "attacker_amount_in_eth": "37547298763358424",
+    "min_amount_out_tokens": "4751721726556106",
+    "token_addr": "0x375e104af98872e5b4fe951919e504a47db1757c",
+    "pair_addr": "0xa5d739430718451756a7c97254939cbdd25a83ec",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "35103342988152681564",
+    "initial_reserve_token": "4795645200834169714",
+    "optimized_amount_in_eth": "1209547298763358424",
+    "optimized_amount_out_tokens": "4774673334088736",
+    "final_reserve_weth": "36312890286916039988",
+    "final_reserve_token": "4636370190619408887",
+    "iterations": 293,
+    "execution_time_ns": 826220,
+    "timestamp": 1722520175
+  },
+  {
+    "victim_amount_in_eth": "58000000000000000",
+    "attacker_amount_in_eth": "758000000000000000",
+    "min_amount_out_tokens": "7984985010383464",
+    "token_addr": "0x375e104af98872e5b4fe951919e504a47db1757c",
+    "pair_addr": "0xa5d739430718451756a7c97254939cbdd25a83ec",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "34076623603476973733",
+    "initial_reserve_token": "4949178947921801788",
+    "optimized_amount_in_eth": "758000000000000000",
+    "optimized_amount_out_tokens": "8024142552564999",
+    "final_reserve_weth": "34834623603476973733",
+    "final_reserve_token": "4841801086474757700",
+    "iterations": 175,
+    "execution_time_ns": 467412,
+    "timestamp": 1722521712
+  }
+]
+

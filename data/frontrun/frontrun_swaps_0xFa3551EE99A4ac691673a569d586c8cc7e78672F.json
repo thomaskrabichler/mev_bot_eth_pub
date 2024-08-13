@@ -1,0 +1,20 @@
+[
+  {
+    "victim_amount_in_eth": "20000000000000000",
+    "attacker_amount_in_eth": "20000000000000000",
+    "min_amount_out_tokens": "2051613368690",
+    "token_addr": "0x95ed629b028cf6aadd1408bb988c6d1daabe4767",
+    "pair_addr": "0xfa3551ee99a4ac691673a569d586c8cc7e78672f",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "8867518873907926108",
+    "initial_reserve_token": "918996869939720",
+    "optimized_amount_in_eth": "20000000000000000",
+    "optimized_amount_out_tokens": "2052626246047",
+    "final_reserve_weth": "8887518873907926108",
+    "final_reserve_token": "916934998504186",
+    "iterations": 0,
+    "execution_time_ns": 30116,
+    "timestamp": 1722520971
+  }
+]
+

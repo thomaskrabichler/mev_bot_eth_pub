@@ -1,0 +1,54 @@
+[
+  {
+    "victim_amount_in_eth": "314040989644849058",
+    "attacker_amount_in_eth": "314040989644849058",
+    "min_amount_out_tokens": "5938224535693",
+    "token_addr": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "pair_addr": "0x3885fbe4cd8aed7b7e9625923927fa1ce30662a3",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "240115484215631556893",
+    "initial_reserve_token": "4646376703184807",
+    "optimized_amount_in_eth": "1666040989644849058",
+    "optimized_amount_out_tokens": "5967834890506",
+    "final_reserve_weth": "241781525205276405951",
+    "final_reserve_token": "4614455362549093",
+    "iterations": 338,
+    "execution_time_ns": 787097,
+    "timestamp": 1722520937
+  },
+  {
+    "victim_amount_in_eth": "225000000000000000",
+    "attacker_amount_in_eth": "1253000000000000000",
+    "min_amount_out_tokens": "4609227632331",
+    "token_addr": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "pair_addr": "0x3885fbe4cd8aed7b7e9625923927fa1ce30662a3",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "231325325493489300750",
+    "initial_reserve_token": "4833134326996852",
+    "optimized_amount_in_eth": "1253000000000000000",
+    "optimized_amount_out_tokens": "4632117670658",
+    "final_reserve_weth": "232578325493489300750",
+    "final_reserve_token": "4807173837632849",
+    "iterations": 257,
+    "execution_time_ns": 710184,
+    "timestamp": 1722521775
+  },
+  {
+    "victim_amount_in_eth": "650000000000000000",
+    "attacker_amount_in_eth": "658000000000000000",
+    "min_amount_out_tokens": "13359429643059",
+    "token_addr": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "pair_addr": "0x3885fbe4cd8aed7b7e9625923927fa1ce30662a3",
+    "weth_addr": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "initial_reserve_weth": "231325325493489300750",
+    "initial_reserve_token": "4833134326996852",
+    "optimized_amount_in_eth": "658000000000000000",
+    "optimized_amount_out_tokens": "13425769900263",
+    "final_reserve_weth": "231983325493489300750",
+    "final_reserve_token": "4819466582759698",
+    "iterations": 2,
+    "execution_time_ns": 46066,
+    "timestamp": 1722521780
+  }
+]
+
